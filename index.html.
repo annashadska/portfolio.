@@ -1,4 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anna Shadska — SMM Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 <header class="site-header">
   <a aria-label="Анна Шадська — на початок" class="brand" href="#home">anna<span>.</span></a>
   <button aria-expanded="false" aria-label="Відкрити меню" class="menu-toggle" id="menuToggle">☰</button>
@@ -492,3 +500,6 @@
   <a href="#home">На початок ↑</a>
   <small>© 2026 Анна Шадська</small>
 </footer>
+<script src="scripts.js" defer></script>
+</body>
+</html>
